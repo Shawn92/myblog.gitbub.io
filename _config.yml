@@ -8,8 +8,8 @@
 # Site settings
 title: HyG
 brief-intro: Front-end Dev Engineer
-baseurl: "" /myblog.gitbub.io
-url: "https://shawn92.github.io/myblog.gitbub.io/" # the base hostname & protocol for your site
+baseurl: "/myblog.gitbub.io" # the subpath of your site, e.g. /blog
+url: "https://shawn92.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
